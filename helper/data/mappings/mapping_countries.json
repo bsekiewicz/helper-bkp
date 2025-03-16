@@ -1,0 +1,666 @@
+{
+    "and": {
+        "iso2": "ad",
+        "iso3": "and",
+        "name_en": "Andorra",
+        "region_en": "Europe",
+        "name_pl": "Andora",
+        "region_pl": "Europa"
+    },
+    "are": {
+        "iso2": "ae",
+        "iso3": "are",
+        "name_en": "United Arab Emirates",
+        "region_en": "Middle East",
+        "name_pl": "Zjednoczone Emiraty Arabskie",
+        "region_pl": "Bliski Wschód"
+    },
+    "arg": {
+        "iso2": "ar",
+        "iso3": "arg",
+        "name_en": "Argentina",
+        "region_en": "South America",
+        "name_pl": "Argentyna",
+        "region_pl": "Ameryka Południowa"
+    },
+    "aus": {
+        "iso2": "au",
+        "iso3": "aus",
+        "name_en": "Australia",
+        "region_en": "Australia and Oceania",
+        "name_pl": "Australia",
+        "region_pl": "Australia i Oceania"
+    },
+    "aut": {
+        "iso2": "at",
+        "iso3": "aut",
+        "name_en": "Austria",
+        "region_en": "Europe",
+        "name_pl": "Austria",
+        "region_pl": "Europa"
+    },
+    "bel": {
+        "iso2": "be",
+        "iso3": "bel",
+        "name_en": "Belgium",
+        "region_en": "Europe",
+        "name_pl": "Belgia",
+        "region_pl": "Europa"
+    },
+    "bgr": {
+        "iso2": "bg",
+        "iso3": "bgr",
+        "name_en": "Bulgaria",
+        "region_en": "Europe",
+        "name_pl": "Bułgaria",
+        "region_pl": "Europa"
+    },
+    "bhr": {
+        "iso2": "bh",
+        "iso3": "bhr",
+        "name_en": "Bahrain",
+        "region_en": "Middle East",
+        "name_pl": "Bahrajn",
+        "region_pl": "Bliski Wschód"
+    },
+    "bih": {
+        "iso2": "ba",
+        "iso3": "bih",
+        "name_en": "Bosnia & Herzegovina",
+        "region_en": "Europe",
+        "name_pl": "Bośnia i Hercegowina",
+        "region_pl": "Europa"
+    },
+    "blr": {
+        "iso2": "by",
+        "iso3": "blr",
+        "name_en": "Belarus",
+        "region_en": "Europe",
+        "name_pl": "Białoruś",
+        "region_pl": "Europa"
+    },
+    "bra": {
+        "iso2": "br",
+        "iso3": "bra",
+        "name_en": "Brazil",
+        "region_en": "South America",
+        "name_pl": "Brazylia",
+        "region_pl": "Ameryka Południowa"
+    },
+    "can": {
+        "iso2": "ca",
+        "iso3": "can",
+        "name_en": "Canada",
+        "region_en": "North America",
+        "name_pl": "Kanada",
+        "region_pl": "Ameryka Północna"
+    },
+    "che": {
+        "iso2": "ch",
+        "iso3": "che",
+        "name_en": "Switzerland",
+        "region_en": "Europe",
+        "name_pl": "Szwajcaria",
+        "region_pl": "Europa"
+    },
+    "chl": {
+        "iso2": "cl",
+        "iso3": "chl",
+        "name_en": "Chile",
+        "region_en": "South America",
+        "name_pl": "Chile",
+        "region_pl": "Ameryka Południowa"
+    },
+    "chn": {
+        "iso2": "cn",
+        "iso3": "chn",
+        "name_en": "China",
+        "region_en": "Asia",
+        "name_pl": "Chiny",
+        "region_pl": "Azja"
+    },
+    "col": {
+        "iso2": "co",
+        "iso3": "col",
+        "name_en": "Colombia",
+        "region_en": "South America",
+        "name_pl": "Kolumbia",
+        "region_pl": "Ameryka Południowa"
+    },
+    "cyp": {
+        "iso2": "cy",
+        "iso3": "cyp",
+        "name_en": "Cyprus",
+        "region_en": "Europe",
+        "name_pl": "Cypr",
+        "region_pl": "Europa"
+    },
+    "cze": {
+        "iso2": "cz",
+        "iso3": "cze",
+        "name_en": "Czech Republic",
+        "region_en": "Europe",
+        "name_pl": "Czechy",
+        "region_pl": "Europa"
+    },
+    "deu": {
+        "iso2": "de",
+        "iso3": "deu",
+        "name_en": "Germany",
+        "region_en": "Europe",
+        "name_pl": "Niemcy",
+        "region_pl": "Europa"
+    },
+    "dnk": {
+        "iso2": "dk",
+        "iso3": "dnk",
+        "name_en": "Denmark",
+        "region_en": "Europe",
+        "name_pl": "Dania",
+        "region_pl": "Europa"
+    },
+    "egy": {
+        "iso2": "eg",
+        "iso3": "egy",
+        "name_en": "Egypt",
+        "region_en": "Africa",
+        "name_pl": "Egipt",
+        "region_pl": "Afryka"
+    },
+    "esp": {
+        "iso2": "es",
+        "iso3": "esp",
+        "name_en": "Spain",
+        "region_en": "Europe",
+        "name_pl": "Hiszpania",
+        "region_pl": "Europa"
+    },
+    "est": {
+        "iso2": "ee",
+        "iso3": "est",
+        "name_en": "Estonia",
+        "region_en": "Europe",
+        "name_pl": "Estonia",
+        "region_pl": "Europa"
+    },
+    "fin": {
+        "iso2": "fi",
+        "iso3": "fin",
+        "name_en": "Finland",
+        "region_en": "Europe",
+        "name_pl": "Finlandia",
+        "region_pl": "Europa"
+    },
+    "fra": {
+        "iso2": "fr",
+        "iso3": "fra",
+        "name_en": "France",
+        "region_en": "Europe",
+        "name_pl": "Francja",
+        "region_pl": "Europa"
+    },
+    "gbr": {
+        "iso2": "gb",
+        "iso3": "gbr",
+        "name_en": "United Kingdom",
+        "region_en": "Europe",
+        "name_pl": "Wielka Brytania",
+        "region_pl": "Europa"
+    },
+    "gbr_uk": {
+        "iso2": "uk",
+        "iso3": "gbr",
+        "name_en": "United Kingdom",
+        "region_en": "Europe",
+        "name_pl": "Wielka Brytania",
+        "region_pl": "Europa"
+    },
+    "geo": {
+        "iso2": "ge",
+        "iso3": "geo",
+        "name_en": "Georgia",
+        "region_en": "Europe",
+        "name_pl": "Gruzja",
+        "region_pl": "Europa"
+    },
+    "grc": {
+        "iso2": "gr",
+        "iso3": "grc",
+        "name_en": "Greece",
+        "region_en": "Europe",
+        "name_pl": "Grecja",
+        "region_pl": "Europa"
+    },
+    "hkg": {
+        "iso2": "hk",
+        "iso3": "hkg",
+        "name_en": "Hong Kong SAR",
+        "region_en": "Asia",
+        "name_pl": "Hongkong",
+        "region_pl": "Azja"
+    },
+    "hrv": {
+        "iso2": "hr",
+        "iso3": "hrv",
+        "name_en": "Croatia",
+        "region_en": "Europe",
+        "name_pl": "Chorwacja",
+        "region_pl": "Europa"
+    },
+    "hun": {
+        "iso2": "hu",
+        "iso3": "hun",
+        "name_en": "Hungary",
+        "region_en": "Europe",
+        "name_pl": "Węgry",
+        "region_pl": "Europa"
+    },
+    "idn": {
+        "iso2": "id",
+        "iso3": "idn",
+        "name_en": "Indonesia",
+        "region_en": "Asia",
+        "name_pl": "Indonezja",
+        "region_pl": "Azja"
+    },
+    "ind": {
+        "iso2": "in",
+        "iso3": "ind",
+        "name_en": "India",
+        "region_en": "Asia",
+        "name_pl": "Indie",
+        "region_pl": "Azja"
+    },
+    "irl": {
+        "iso2": "ie",
+        "iso3": "irl",
+        "name_en": "Ireland",
+        "region_en": "Europe",
+        "name_pl": "Irlandia",
+        "region_pl": "Europa"
+    },
+    "isl": {
+        "iso2": "is",
+        "iso3": "isl",
+        "name_en": "Iceland",
+        "region_en": "Europe",
+        "name_pl": "Islandia",
+        "region_pl": "Europa"
+    },
+    "isr": {
+        "iso2": "il",
+        "iso3": "isr",
+        "name_en": "Israel",
+        "region_en": "Middle East",
+        "name_pl": "Izrael",
+        "region_pl": "Bliski Wschód"
+    },
+    "ita": {
+        "iso2": "it",
+        "iso3": "ita",
+        "name_en": "Italy",
+        "region_en": "Europe",
+        "name_pl": "Włochy",
+        "region_pl": "Europa"
+    },
+    "jor": {
+        "iso2": "jo",
+        "iso3": "jor",
+        "name_en": "Jordan",
+        "region_en": "Middle East",
+        "name_pl": "Jordania",
+        "region_pl": "Bliski Wschód"
+    },
+    "jpn": {
+        "iso2": "jp",
+        "iso3": "jpn",
+        "name_en": "Japan",
+        "region_en": "Asia",
+        "name_pl": "Japonia",
+        "region_pl": "Azja"
+    },
+    "kaz": {
+        "iso2": "kz",
+        "iso3": "kaz",
+        "name_en": "Kazakhstan",
+        "region_en": "Asia",
+        "name_pl": "Kazachstan",
+        "region_pl": "Azja"
+    },
+    "khm": {
+        "iso2": "kh",
+        "iso3": "khm",
+        "name_en": "Cambodia",
+        "region_en": "Asia",
+        "name_pl": "Kambodża",
+        "region_pl": "Azja"
+    },
+    "kor": {
+        "iso2": "kr",
+        "iso3": "kor",
+        "name_en": "South Korea",
+        "region_en": "Asia",
+        "name_pl": "Korea Południowa",
+        "region_pl": "Azja"
+    },
+    "kwt": {
+        "iso2": "kw",
+        "iso3": "kwt",
+        "name_en": "Kuwait",
+        "region_en": "Middle East",
+        "name_pl": "Kuwejt",
+        "region_pl": "Bliski Wschód"
+    },
+    "lbn": {
+        "iso2": "lb",
+        "iso3": "lbn",
+        "name_en": "Lebanon",
+        "region_en": "Middle East",
+        "name_pl": "Liban",
+        "region_pl": "Bliski Wschód"
+    },
+    "lie": {
+        "iso2": "li",
+        "iso3": "lie",
+        "name_en": "Liechtenstein",
+        "region_en": "Europe",
+        "name_pl": "Liechtenstein",
+        "region_pl": "Europa"
+    },
+    "ltu": {
+        "iso2": "lt",
+        "iso3": "ltu",
+        "name_en": "Lithuania",
+        "region_en": "Europe",
+        "name_pl": "Litwa",
+        "region_pl": "Europa"
+    },
+    "lux": {
+        "iso2": "lu",
+        "iso3": "lux",
+        "name_en": "Luxembourg",
+        "region_en": "Europe",
+        "name_pl": "Luksemburg",
+        "region_pl": "Europa"
+    },
+    "lva": {
+        "iso2": "lv",
+        "iso3": "lva",
+        "name_en": "Latvia",
+        "region_en": "Europe",
+        "name_pl": "Łotwa",
+        "region_pl": "Europa"
+    },
+    "mac": {
+        "iso2": "mo",
+        "iso3": "mac",
+        "name_en": "Macau",
+        "region_en": "Asia",
+        "name_pl": "Makau",
+        "region_pl": "Azja"
+    },
+    "mar": {
+        "iso2": "ma",
+        "iso3": "mar",
+        "name_en": "Morocco",
+        "region_en": "Africa",
+        "name_pl": "Maroko",
+        "region_pl": "Afryka"
+    },
+    "mco": {
+        "iso2": "mc",
+        "iso3": "mco",
+        "name_en": "Monaco",
+        "region_en": "Europe",
+        "name_pl": "Monako",
+        "region_pl": "Europa"
+    },
+    "mex": {
+        "iso2": "mx",
+        "iso3": "mex",
+        "name_en": "Mexico",
+        "region_en": "North America",
+        "name_pl": "Meksyk",
+        "region_pl": "Ameryka Północna"
+    },
+    "mkd": {
+        "iso2": "mk",
+        "iso3": "mkd",
+        "name_en": "North Macedonia",
+        "region_en": "Europe",
+        "name_pl": "Macedonia Północna",
+        "region_pl": "Europa"
+    },
+    "mlt": {
+        "iso2": "mt",
+        "iso3": "mlt",
+        "name_en": "Malta",
+        "region_en": "Europe",
+        "name_pl": "Malta",
+        "region_pl": "Europa"
+    },
+    "mys": {
+        "iso2": "my",
+        "iso3": "mys",
+        "name_en": "Malaysia",
+        "region_en": "Asia",
+        "name_pl": "Malezja",
+        "region_pl": "Azja"
+    },
+    "nld": {
+        "iso2": "nl",
+        "iso3": "nld",
+        "name_en": "Netherlands",
+        "region_en": "Europe",
+        "name_pl": "Holandia",
+        "region_pl": "Europa"
+    },
+    "nor": {
+        "iso2": "no",
+        "iso3": "nor",
+        "name_en": "Norway",
+        "region_en": "Europe",
+        "name_pl": "Norwegia",
+        "region_pl": "Europa"
+    },
+    "nzl": {
+        "iso2": "nz",
+        "iso3": "nzl",
+        "name_en": "New Zealand",
+        "region_en": "Australia and Oceania",
+        "name_pl": "Nowa Zelandia",
+        "region_pl": "Australia i Oceania"
+    },
+    "omn": {
+        "iso2": "om",
+        "iso3": "omn",
+        "name_en": "Oman",
+        "region_en": "Middle East",
+        "name_pl": "Oman",
+        "region_pl": "Bliski Wschód"
+    },
+    "phl": {
+        "iso2": "ph",
+        "iso3": "phl",
+        "name_en": "Philippines",
+        "region_en": "Asia",
+        "name_pl": "Filipiny",
+        "region_pl": "Azja"
+    },
+    "pol": {
+        "iso2": "pl",
+        "iso3": "pol",
+        "name_en": "Poland",
+        "region_en": "Europe",
+        "name_pl": "Polska",
+        "region_pl": "Europa"
+    },
+    "prt": {
+        "iso2": "pt",
+        "iso3": "prt",
+        "name_en": "Portugal",
+        "region_en": "Europe",
+        "name_pl": "Portugalia",
+        "region_pl": "Europa"
+    },
+    "qat": {
+        "iso2": "qa",
+        "iso3": "qat",
+        "name_en": "Qatar",
+        "region_en": "Middle East",
+        "name_pl": "Katar",
+        "region_pl": "Bliski Wschód"
+    },
+    "rou": {
+        "iso2": "ro",
+        "iso3": "rou",
+        "name_en": "Romania",
+        "region_en": "Europe",
+        "name_pl": "Rumunia",
+        "region_pl": "Europa"
+    },
+    "rus": {
+        "iso2": "ru",
+        "iso3": "rus",
+        "name_en": "Russia",
+        "region_en": "Europe",
+        "name_pl": "Rosja",
+        "region_pl": "Europa"
+    },
+    "sau": {
+        "iso2": "sa",
+        "iso3": "sau",
+        "name_en": "Saudi Arabia",
+        "region_en": "Middle East",
+        "name_pl": "Arabia Saudyjska",
+        "region_pl": "Bliski Wschód"
+    },
+    "sgp": {
+        "iso2": "sg",
+        "iso3": "sgp",
+        "name_en": "Singapore",
+        "region_en": "Asia",
+        "name_pl": "Singapur",
+        "region_pl": "Azja"
+    },
+    "smr": {
+        "iso2": "sm",
+        "iso3": "smr",
+        "name_en": "San Marino",
+        "region_en": "Europe",
+        "name_pl": "San Marino",
+        "region_pl": "Europa"
+    },
+    "srb": {
+        "iso2": "rs",
+        "iso3": "srb",
+        "name_en": "Serbia",
+        "region_en": "Europe",
+        "name_pl": "Serbia",
+        "region_pl": "Europa"
+    },
+    "svk": {
+        "iso2": "sk",
+        "iso3": "svk",
+        "name_en": "Slovakia",
+        "region_en": "Europe",
+        "name_pl": "Słowacja",
+        "region_pl": "Europa"
+    },
+    "svn": {
+        "iso2": "si",
+        "iso3": "svn",
+        "name_en": "Slovenia",
+        "region_en": "Europe",
+        "name_pl": "Słowenia",
+        "region_pl": "Europa"
+    },
+    "swe": {
+        "iso2": "se",
+        "iso3": "swe",
+        "name_en": "Sweden",
+        "region_en": "Europe",
+        "name_pl": "Szwecja",
+        "region_pl": "Europa"
+    },
+    "tha": {
+        "iso2": "th",
+        "iso3": "tha",
+        "name_en": "Thailand",
+        "region_en": "Asia",
+        "name_pl": "Tajlandia",
+        "region_pl": "Azja"
+    },
+    "tun": {
+        "iso2": "tn",
+        "iso3": "tun",
+        "name_en": "Tunisia",
+        "region_en": "Africa",
+        "name_pl": "Tunezja",
+        "region_pl": "Afryka"
+    },
+    "tur": {
+        "iso2": "tr",
+        "iso3": "tur",
+        "name_en": "Turkey",
+        "region_en": "Europe",
+        "name_pl": "Turcja",
+        "region_pl": "Europa"
+    },
+    "twn": {
+        "iso2": "tw",
+        "iso3": "twn",
+        "name_en": "Taiwan",
+        "region_en": "Asia",
+        "name_pl": "Tajwan",
+        "region_pl": "Azja"
+    },
+    "ukr": {
+        "iso2": "ua",
+        "iso3": "ukr",
+        "name_en": "Ukraine",
+        "region_en": "Europe",
+        "name_pl": "Ukraina",
+        "region_pl": "Europa"
+    },
+    "usa": {
+        "iso2": "us",
+        "iso3": "usa",
+        "name_en": "United States",
+        "region_en": "North America",
+        "name_pl": "Stany Zjednoczone",
+        "region_pl": "Ameryka Północna"
+    },
+    "vat": {
+        "iso2": "va",
+        "iso3": "vat",
+        "name_en": "Vatican City",
+        "region_en": "Europe",
+        "name_pl": "Watykan",
+        "region_pl": "Europa"
+    },
+    "vnm": {
+        "iso2": "vn",
+        "iso3": "vnm",
+        "name_en": "Vietnam",
+        "region_en": "Asia",
+        "name_pl": "Wietnam",
+        "region_pl": "Azja"
+    },
+    "xkx": {
+        "iso2": "xk",
+        "iso3": "xkx",
+        "name_en": "Kosovo",
+        "region_en": "Europe",
+        "name_pl": "Kosowo",
+        "region_pl": "Europa"
+    },
+    "zaf": {
+        "iso2": "za",
+        "iso3": "zaf",
+        "name_en": "South Africa",
+        "region_en": "Africa",
+        "name_pl": "Republika Południowej Afryki",
+        "region_pl": "Afryka"
+    }
+}

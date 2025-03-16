@@ -1,0 +1,254 @@
+{
+    "sqi": {
+        "iso2": "sq",
+        "iso3": "sqi",
+        "name_en": "Albanian",
+        "name_pl": "Albański"
+    },
+    "ara": {
+        "iso2": "ar",
+        "iso3": "ara",
+        "name_en": "Arabic",
+        "name_pl": "Arabski"
+    },
+    "bos": {
+        "iso2": "bs",
+        "iso3": "bos",
+        "name_en": "Bosnian",
+        "name_pl": "Bośniacki"
+    },
+    "bul": {
+        "iso2": "bg",
+        "iso3": "bul",
+        "name_en": "Bulgarian",
+        "name_pl": "Bułgarski"
+    },
+    "cat": {
+        "iso2": "ca",
+        "iso3": "cat",
+        "name_en": "Catalan",
+        "name_pl": "Kataloński"
+    },
+    "zho": {
+        "iso2": "zh",
+        "iso3": "zho",
+        "name_en": "Chinese",
+        "name_pl": "Chiński"
+    },
+    "hrv": {
+        "iso2": "hr",
+        "iso3": "hrv",
+        "name_en": "Croatian",
+        "name_pl": "Chorwacki"
+    },
+    "ces": {
+        "iso2": "cs",
+        "iso3": "ces",
+        "name_en": "Czech",
+        "name_pl": "Czeski"
+    },
+    "dan": {
+        "iso2": "da",
+        "iso3": "dan",
+        "name_en": "Danish",
+        "name_pl": "Duński"
+    },
+    "nld": {
+        "iso2": "nl",
+        "iso3": "nld",
+        "name_en": "Dutch",
+        "name_pl": "Holenderski"
+    },
+    "eng": {
+        "iso2": "en",
+        "iso3": "eng",
+        "name_en": "English",
+        "name_pl": "Angielski"
+    },
+    "est": {
+        "iso2": "et",
+        "iso3": "est",
+        "name_en": "Estonian",
+        "name_pl": "Estoński"
+    },
+    "fin": {
+        "iso2": "fi",
+        "iso3": "fin",
+        "name_en": "Finnish",
+        "name_pl": "Fiński"
+    },
+    "fra": {
+        "iso2": "fr",
+        "iso3": "fra",
+        "name_en": "French",
+        "name_pl": "Francuski"
+    },
+    "kat": {
+        "iso2": "ka",
+        "iso3": "kat",
+        "name_en": "Georgian",
+        "name_pl": "Gruziński"
+    },
+    "deu": {
+        "iso2": "de",
+        "iso3": "deu",
+        "name_en": "German",
+        "name_pl": "Niemiecki"
+    },
+    "ell": {
+        "iso2": "el",
+        "iso3": "ell",
+        "name_en": "Greek",
+        "name_pl": "Grecki"
+    },
+    "heb": {
+        "iso2": "he",
+        "iso3": "heb",
+        "name_en": "Hebrew",
+        "name_pl": "Hebrajski"
+    },
+    "heb_hw": {
+        "iso2": "hw",
+        "iso3": "heb",
+        "name_en": "Hebrew",
+        "name_pl": "Hebrajski"
+    },
+    "hun": {
+        "iso2": "hu",
+        "iso3": "hun",
+        "name_en": "Hungarian",
+        "name_pl": "Węgierski"
+    },
+    "isl": {
+        "iso2": "is",
+        "iso3": "isl",
+        "name_en": "Icelandic",
+        "name_pl": "Islandzki"
+    },
+    "idn": {
+        "iso2": "id",
+        "iso3": "idn",
+        "name_en": "Indonesian",
+        "name_pl": "Indonezyjski"
+    },
+    "ita": {
+        "iso2": "it",
+        "iso3": "ita",
+        "name_en": "Italian",
+        "name_pl": "Włoski"
+    },
+    "jpn": {
+        "iso2": "ja",
+        "iso3": "jpn",
+        "name_en": "Japanese",
+        "name_pl": "Japoński"
+    },
+    "jpn_jp": {
+        "iso2": "jp",
+        "iso3": "jpn",
+        "name_en": "Japanese",
+        "name_pl": "Japoński"
+    },
+    "kor": {
+        "iso2": "ko",
+        "iso3": "kor",
+        "name_en": "Korean",
+        "name_pl": "Koreański"
+    },
+    "lav": {
+        "iso2": "lv",
+        "iso3": "lav",
+        "name_en": "Latvian",
+        "name_pl": "Łotewski"
+    },
+    "lit": {
+        "iso2": "lt",
+        "iso3": "lit",
+        "name_en": "Lithuanian",
+        "name_pl": "Litewski"
+    },
+    "mlt": {
+        "iso2": "mt",
+        "iso3": "mlt",
+        "name_en": "Maltese",
+        "name_pl": "Maltański"
+    },
+    "nor": {
+        "iso2": "no",
+        "iso3": "nor",
+        "name_en": "Norwegian",
+        "name_pl": "Norweski"
+    },
+    "pol": {
+        "iso2": "pl",
+        "iso3": "pol",
+        "name_en": "Polish",
+        "name_pl": "Polski"
+    },
+    "por": {
+        "iso2": "pt",
+        "iso3": "por",
+        "name_en": "Portuguese",
+        "name_pl": "Portugalski"
+    },
+    "ron": {
+        "iso2": "ro",
+        "iso3": "ron",
+        "name_en": "Romanian",
+        "name_pl": "Rumuński"
+    },
+    "rus": {
+        "iso2": "ru",
+        "iso3": "rus",
+        "name_en": "Russian",
+        "name_pl": "Rosyjski"
+    },
+    "srp": {
+        "iso2": "sr",
+        "iso3": "srp",
+        "name_en": "Serbian",
+        "name_pl": "Serbski"
+    },
+    "slk": {
+        "iso2": "sk",
+        "iso3": "slk",
+        "name_en": "Slovak",
+        "name_pl": "Słowacki"
+    },
+    "slv": {
+        "iso2": "sl",
+        "iso3": "slv",
+        "name_en": "Slovenian",
+        "name_pl": "Słoweński"
+    },
+    "spa": {
+        "iso2": "es",
+        "iso3": "spa",
+        "name_en": "Spanish",
+        "name_pl": "Hiszpański"
+    },
+    "swe": {
+        "iso2": "sv",
+        "iso3": "swe",
+        "name_en": "Swedish",
+        "name_pl": "Szwedzki"
+    },
+    "tha": {
+        "iso2": "th",
+        "iso3": "tha",
+        "name_en": "Thai",
+        "name_pl": "Tajski"
+    },
+    "tur": {
+        "iso2": "tr",
+        "iso3": "tur",
+        "name_en": "Turkish",
+        "name_pl": "Turecki"
+    },
+    "vie": {
+        "iso2": "vi",
+        "iso3": "vie",
+        "name_en": "Vietnamese",
+        "name_pl": "Wietnamski"
+    }
+}

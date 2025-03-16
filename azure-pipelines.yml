@@ -1,0 +1,45 @@
+trigger:
+- main
+- dev
+
+pool:
+  vmImage: ubuntu-latest
+
+strategy:
+  matrix:
+    Python311:
+      python.version: '3.11'
+    Python312:
+      python.version: '3.12'
+
+steps:
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '$(python.version)'
+  displayName: 'Use Python $(python.version)'
+
+- task: Cache@2
+  inputs:
+    key: 'python | "$(Agent.OS)" | requirements.txt'
+    path: $(HOME)/.cache/pip
+  displayName: 'Cache pip dependencies'
+
+- script: |
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
+  displayName: 'Install dependencies'
+
+- script: |
+    pip install flake8
+    flake8 . --ignore=E501
+  displayName: 'Run flake8 (Linting)'
+
+- script: |
+    pip install pytest pytest-azurepipelines
+    pytest
+  displayName: 'Run tests'
+
+- script: |
+    pip install build
+    python -m build
+  displayName: 'Build package'

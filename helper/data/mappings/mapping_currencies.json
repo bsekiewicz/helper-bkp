@@ -1,0 +1,234 @@
+{
+    "USD": {
+        "symbols": [
+            "$",
+            "US$"
+        ],
+        "iso3": "USD",
+        "name_en": "United States Dollar",
+        "name_pl": "Dolar amerykański"
+    },
+    "EUR": {
+        "symbols": [
+            "€"
+        ],
+        "iso3": "EUR",
+        "name_en": "Euro",
+        "name_pl": "Euro"
+    },
+    "GBP": {
+        "symbols": [
+            "£"
+        ],
+        "iso3": "GBP",
+        "name_en": "British Pound",
+        "name_pl": "Funt brytyjski"
+    },
+    "JPY": {
+        "symbols": [
+            "¥"
+        ],
+        "iso3": "JPY",
+        "name_en": "Japanese Yen",
+        "name_pl": "Jen japoński"
+    },
+    "CHF": {
+        "symbols": [
+            "Fr.",
+            "CHF"
+        ],
+        "iso3": "CHF",
+        "name_en": "Swiss Franc",
+        "name_pl": "Frank szwajcarski"
+    },
+    "AUD": {
+        "symbols": [
+            "A$",
+            "AU$"
+        ],
+        "iso3": "AUD",
+        "name_en": "Australian Dollar",
+        "name_pl": "Dolar australijski"
+    },
+    "CAD": {
+        "symbols": [
+            "C$",
+            "Can$"
+        ],
+        "iso3": "CAD",
+        "name_en": "Canadian Dollar",
+        "name_pl": "Dolar kanadyjski"
+    },
+    "SEK": {
+        "symbols": [
+            "kr. se"
+        ],
+        "iso3": "SEK",
+        "name_en": "Swedish Krona",
+        "name_pl": "Korona szwedzka"
+    },
+    "NOK": {
+        "symbols": [
+            "kr. no"
+        ],
+        "iso3": "NOK",
+        "name_en": "Norwegian Krone",
+        "name_pl": "Korona norweska"
+    },
+    "DKK": {
+        "symbols": [
+            "kr. dk"
+        ],
+        "iso3": "DKK",
+        "name_en": "Danish Krone",
+        "name_pl": "Korona duńska"
+    },
+    "PLN": {
+        "symbols": [
+            "zł"
+        ],
+        "iso3": "PLN",
+        "name_en": "Polish Zloty",
+        "name_pl": "Złoty"
+    },
+    "CZK": {
+        "symbols": [
+            "Kč"
+        ],
+        "iso3": "CZK",
+        "name_en": "Czech Koruna",
+        "name_pl": "Korona czeska"
+    },
+    "HUF": {
+        "symbols": [
+            "Ft"
+        ],
+        "iso3": "HUF",
+        "name_en": "Hungarian Forint",
+        "name_pl": "Forint węgierski"
+    },
+    "RUB": {
+        "symbols": [
+            "₽"
+        ],
+        "iso3": "RUB",
+        "name_en": "Russian Ruble",
+        "name_pl": "Rubel rosyjski"
+    },
+    "TRY": {
+        "symbols": [
+            "₺",
+            "TL"
+        ],
+        "iso3": "TRY",
+        "name_en": "Turkish Lira",
+        "name_pl": "Lira turecka"
+    },
+    "RON": {
+        "symbols": [
+            "lei"
+        ],
+        "iso3": "RON",
+        "name_en": "Romanian Leu",
+        "name_pl": "Lej rumuński"
+    },
+    "BGN": {
+        "symbols": [
+            "лв"
+        ],
+        "iso3": "BGN",
+        "name_en": "Bulgarian Lev",
+        "name_pl": "Lew bułgarski"
+    },
+    "HRK": {
+        "symbols": [
+            "kn"
+        ],
+        "iso3": "HRK",
+        "name_en": "Croatian Kuna",
+        "name_pl": "Kuna chorwacka"
+    },
+    "ISK": {
+        "symbols": [
+            "Íkr"
+        ],
+        "iso3": "ISK",
+        "name_en": "Icelandic Krona",
+        "name_pl": "Korona islandzka"
+    },
+    "BAM": {
+        "symbols": [
+            "KM"
+        ],
+        "iso3": "BAM",
+        "name_en": "Bosnia-Herzegovina Convertible Mark",
+        "name_pl": "Marka bośniacka"
+    },
+    "MKD": {
+        "symbols": [
+            "ден"
+        ],
+        "iso3": "MKD",
+        "name_en": "Macedonian Denar",
+        "name_pl": "Denar macedoński"
+    },
+    "ALL": {
+        "symbols": [
+            "L al"
+        ],
+        "iso3": "ALL",
+        "name_en": "Albanian Lek",
+        "name_pl": "Lek albański"
+    },
+    "MDL": {
+        "symbols": [
+            "L md"
+        ],
+        "iso3": "MDL",
+        "name_en": "Moldovan Leu",
+        "name_pl": "Lej mołdawski"
+    },
+    "RSD": {
+        "symbols": [
+            "дин."
+        ],
+        "iso3": "RSD",
+        "name_en": "Serbian Dinar",
+        "name_pl": "Dinar serbski"
+    },
+    "UAH": {
+        "symbols": [
+            "₴"
+        ],
+        "iso3": "UAH",
+        "name_en": "Ukrainian Hryvnia",
+        "name_pl": "Hrywna ukraińska"
+    },
+    "INR": {
+        "symbols": [
+            "₹",
+            "Rs.",
+            "Rs"
+        ],
+        "iso3": "INR",
+        "name_en": "Indian Rupee",
+        "name_pl": "Rupia indyjska"
+    },
+    "HKD": {
+        "symbols": [
+            "HK$"
+        ],
+        "iso3": "HKD",
+        "name_en": "Hong Kong Dollar",
+        "name_pl": "Dolar hongkoński"
+    },
+    "KRW": {
+        "symbols": [
+            "₩",
+            "원"
+        ],
+        "iso3": "KRW",
+        "name_en": "South Korean Won",
+        "name_pl": "Won południowokoreański"
+    }
+}

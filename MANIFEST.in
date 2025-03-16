@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include VERSION
+include helper/data/mappings/*.json
